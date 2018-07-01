@@ -8,7 +8,7 @@ By Adrianacmy
 ## Description
 
 - A simple theme with materializecss
-- [Converted Jekylle theme](adrianawritescode.com)
+- [Converted Jekylle theme](http://adrianawritescode.com)
 
 ## Setup/Installation Requirements
 
